@@ -1,12 +1,12 @@
 <!-- Banner Animado Preto & Vermelho -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,60:330000,100:ff0000&height=210&section=header&text=Lenon%20Yuri&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Instrutor%20de%20Tecnologia%20%7C%20IoT%20%26%20Automa%C3%A7%C3%A3o%20Industrial%20%7C%20Web&descSize=16&descAlignY=58&descColor=ffcccc" width="100%" alt="Banner Lenon Yuri" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,60:330000,100:ff0000&height=210&section=header&text=Lenon%20Yuri&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Instrutor%20de%20Tecnologia%20%7C%20IoT%20e%20Sistemas%20Embarcados%20%7C%20Web&descSize=16&descAlignY=60" width="100%" alt="Banner Lenon Yuri" />
 </p>
 
 <!-- Texto Digitando -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=FF0000&center=true&vCenter=true&width=680&lines=Instrutor+e+Arquiteto+de+Sistemas+Embarcados;ESP32+%7C+C%2B%2B+%7C+PlatformIO+%7C+Edge+AI+%7C+Python;Automa%C3%A7%C3%A3o+Industrial+%26+Supervis%C3%B3rios+Web+(EnergizAR)" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=FF0000&center=true&vCenter=true&width=760&lines=Instrutor+e+Arquiteto+de+Sistemas+Embarcados;ESP32+%7C+C%2B%2B+%7C+PlatformIO+%7C+Edge+AI+%7C+Python;Automa%C3%A7%C3%A3o+Industrial+e+Supervis%C3%B3rios+Web+(EnergizAR)" alt="Typing SVG" />
   </a>
 </p>
 
